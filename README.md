@@ -1,7 +1,6 @@
 # Drum Kit
 
-Keyboard responsive drum kit.
-
+A simple responsive webapp where you can play drums using Keyboard or mouse.
 
 ## Built With
 
